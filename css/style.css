@@ -1,0 +1,30 @@
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.search {
+    text-align: center;
+    font-size: 30px;
+}
+
+.result {
+    display: inline-block;
+    box-shadow: 0px 0px 5px 1px gray;
+    margin: 10px;
+    width: 300px;
+    vertical-align: top;
+}
+
+.result span {
+    display: block;
+    border: 1px solid red;
+    padding: 5px;
+}
+
+.result-title {
+    font-size: 20px;
+    text-align: center;
+    background: lightblue;
+    padding: 5px;
+}
